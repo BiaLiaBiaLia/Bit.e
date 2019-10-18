@@ -1,3 +1,0 @@
-﻿  test.c
-c:\code\bit.e\test_8_1\test_8_1\test.c(27): warning C4172: 返回局部变量或临时变量的地址: s
-  test_8_1.vcxproj -> C:\code\Bit.e\test_8_1\Debug\test_8_1.exe
