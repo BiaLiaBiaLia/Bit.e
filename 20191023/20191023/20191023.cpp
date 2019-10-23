@@ -51,7 +51,7 @@ public:
 
 namespace bia
 {
-	template <class T,class DF= DelRef<T>>
+	template <class T, class DF = DelRef<T>>
 	class shared_ptr
 	{
 	public:
@@ -96,26 +96,26 @@ namespace bia
 			}
 		}
 
-			~shared_ptr()
-			{
-				Release();
-			}
+		~shared_ptr()
+		{
+			Release();
+		}
 
-			//具有指针行为
-			T& operator*()
-			{
-				return *_ptr;
-			}
+		//具有指针行为
+		T& operator*()
+		{
+			return *_ptr;
+		}
 
-			T* operator->()
-			{
-				return _ptr;
-			}
+		T* operator->()
+		{
+			return _ptr;
+		}
 
-			int use_count()
-			{
-				return *_pcount;
-			}
+		int use_count()
+		{
+			return *_pcount;
+		}
 	private:
 		void AddRef()
 		{
@@ -174,10 +174,10 @@ struct ListNode
 	//ListNode* pre;
 
 	ListNode(int d)
-	:data(d)
-	//next(nullptr)
-	//pre(nullptr)
-	//data(d)
+		:data(d)
+		//next(nullptr)
+		//pre(nullptr)
+		//data(d)
 	{
 		cout << "ListNode(int):" << this << endl;
 	}
