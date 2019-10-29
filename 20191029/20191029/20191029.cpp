@@ -69,6 +69,7 @@ public:
 int main()
 {
 	Soultion s;
+	s.topKFrequent();
 
 	system("pause");
 	return 0;
