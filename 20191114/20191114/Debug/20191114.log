@@ -1,4 +1,0 @@
-﻿  20191114.cpp
-c:\code\bit.e\20191114\20191114\20191114.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
-c:\code\bit.e\20191114\20191114\20191114.cpp(107): warning C4715: “Parenthesis::chkParenthesis”: 不是所有的控件路径都返回值
-  20191114.vcxproj -> C:\code\Bit.e\20191114\Debug\20191114.exe
