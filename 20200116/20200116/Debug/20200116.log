@@ -1,0 +1,8 @@
+﻿  20200116.cpp
+c:\code\bit.e\20200116\20200116\20200116.cpp(53): error C2131: 表达式的计算结果不是常数
+  c:\code\bit.e\20200116\20200116\20200116.cpp(53): note: 因读取超过生命周期的变量而失败
+  c:\code\bit.e\20200116\20200116\20200116.cpp(53): note: 请参见“n”的用法
+c:\code\bit.e\20200116\20200116\20200116.cpp(56): warning C4552: ”>>“: 未使用表达式结果
+c:\code\bit.e\20200116\20200116\20200116.cpp(60): error C2563: 在形参表中不匹配
+c:\code\bit.e\20200116\20200116\20200116.cpp(60): error C2568: “<<”: 无法解析函数重载
+  c:\code\bit.e\20200116\20200116\20200116.cpp(60): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
