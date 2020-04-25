@@ -1,4 +1,0 @@
-﻿  20200405.cpp
-c:\code\bit.e\20200405\20200405\20200405.cpp(15): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
-c:\code\bit.e\20200405\20200405\20200405.cpp(15): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
-  20200405.vcxproj -> C:\code\Bit.e\20200405\Debug\20200405.exe
