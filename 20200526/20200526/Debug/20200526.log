@@ -1,0 +1,4 @@
+﻿  20200526.cpp
+c:\code\bit.e\20200526\20200526\20200526.cpp(13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\code\bit.e\20200526\20200526\20200526.cpp(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  20200526.vcxproj -> C:\code\Bit.e\20200526\Debug\20200526.exe
